@@ -1,4 +1,4 @@
-[![Memori Labs](https://s3.us-east-1.amazonaws.com/images.memorilabs.ai/banner-dark-large.jpg)](https://memorilabs.ai/)
+[![Memori Labs](https://images.memorilabs.ai/banner-dark-large.jpg)](https://memorilabs.ai/)
 
 <p align="center">
   <strong>Memory from what agents do, not just what they say.</strong>
@@ -33,7 +33,7 @@
   <strong>Choose memory that performs</strong>
 </p>
 
-[![Memori Labs](https://s3.us-east-1.amazonaws.com/images.memorilabs.ai/stats.jpg)](https://memorilabs.ai/benchmark)
+[![Memori Labs](https://images.memorilabs.ai/stats.jpg)](https://memorilabs.ai/benchmark)
 
 ---
 

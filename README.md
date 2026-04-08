@@ -1,5 +1,4 @@
-[![Memori Labs](https://s3.us-east-1.amazonaws.com/images.memorilabs.ai/banner-dark-large.jpg)](https://memorilabs.ai/)
-
+[![Memori Labs](https://images.memorilabs.ai/banner-dark-large.jpg)](https://memorilabs.ai/)
 
 <p align="center">
   <strong>Memory from what agents do, not just what they say.</strong>
@@ -48,7 +47,7 @@
 
 
 
-[![Memori Labs](https://s3.us-east-1.amazonaws.com/images.memorilabs.ai/stats.jpg)](https://memorilabs.ai/benchmark)
+[![Memori Labs](https://images.memorilabs.ai/stats.jpg)](https://memorilabs.ai/benchmark)
 
 ---
 
@@ -150,7 +149,7 @@ Compared with other retrieval-based memory systems, Memori outperformed Zep, Lan
 
 Read the [benchmark overview](docs/memori-cloud/benchmark/overview.mdx), see the [results](docs/memori-cloud/benchmark/results.mdx), or download the [paper](https://arxiv.org/abs/2603.19935).
 
-!["Memori's average accuracy along with the standard deviation"](https://s3.us-east-1.amazonaws.com/images.memorilabs.ai/docs/memori-locomo-benchmark.webp)
+!["Memori's average accuracy along with the standard deviation"](https://images.memorilabs.ai/docs/memori-locomo-benchmark.webp)
 
 ## OpenClaw (Persistent Memory for Your Gateway)
 
